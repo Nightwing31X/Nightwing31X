@@ -1,8 +1,9 @@
 # 👋 About Me:
-I'm a TAFE student studying a CERT IV in Gaming Development.
+I'm a University student currently doing a Bachelor in Information Technology, double majoring in Games Technology and Computer Science.
 <br>
 <br>
 I have achieved:
+<li> CERT IV in Information Technology (Gaming Development)
 <li> CERT III in Information Technology (Cyber Security)
 <li> CERT II in Applied Digital Technology 
 <li> <a target="_blank" href="https://www.credly.com/badges/ccb79957-cf62-4239-99d1-5ab2a8f8c664/linked_in?t=roq530">Python achievement from Cisco</a>
